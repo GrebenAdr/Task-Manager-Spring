@@ -50,11 +50,11 @@
                 </div>
                 <div>
                     <label for="taskDateInput">Date</label>
-                    <input type="text" name="taskDate" id="taskDateInput" />           
+                    <input type="date" name="taskDate" id="taskDateInput" />           
                 </div>
                 <div>
                     <label for="taskTimeInput">Time</label>
-                    <input type="text" name="taskTime" id="taskTimeInput" />
+                    <input type="time" name="taskTime" id="taskTimeInput" />
                 </div>
                 <div>
                     <label for="taskContactsInput">Contacts</label>
